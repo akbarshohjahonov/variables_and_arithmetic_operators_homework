@@ -3,6 +3,6 @@ a=5
 # Create a variable "b"  and assign it the value of the int 4.
 b=4
 # Create a variable called 'answer'.
-javob=(a*b)
+answer=(a*b)
 # Find the multiplication of a and b then assign to 'answer'
-print (javob)
+print (answer)
