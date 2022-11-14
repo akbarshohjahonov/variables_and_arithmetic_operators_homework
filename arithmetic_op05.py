@@ -3,6 +3,6 @@ a=72
 # Create a variable "b"  and assign it the value of the int 9.
 b=9
 # Create a variable called "answer".
-javob=(a/b)
+answer=(a/b)
 # Find the division of a and b then assign to "answer".
-print (javob)
+print (answer)
