@@ -7,6 +7,6 @@ c=2
 # Create a variable "d"  and assign it the value of the int 4.
 d=4
 # Create a variable called 'answer'.
-javob=(a+b-c*d)
+answer=(a+b-c*d)
 # Find the expression value assign to 'answer'. a+b - cd .
-print (javob)
+print (answer)
